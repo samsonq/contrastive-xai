@@ -31,7 +31,7 @@ except Exception as e:
 
 setup(
     name="contrastive_xai",
-    version="0.1.0",
+    version="0.1.1",
     author="Samson Qian",
     author_email="samsonqian@gmail.com",
     packages=["contrastive_xai", "contrastive_xai.grad_cam", "contrastive_xai.lime", "contrastive_xai.shap"],
